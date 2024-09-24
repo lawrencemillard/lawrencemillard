@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @lawrencemillard
 
 ### 📅 Age:
-- **Current Age**: 14 years
+
 - ![Age](https://img.shields.io/badge/Age-14%20years-blue)
 
 
