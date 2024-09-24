@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @lawrencemillard
 
-### 📅 Age: 
-- **Current Age**: ![Age](https://img.shields.io/badge/Age-$(date -d 'today - 2010-04-13' +%Y) years-blue)
+### 📅 Age:
+- **Current Age**: 14 years
+- ![Age](https://img.shields.io/badge/Age-14%20years-blue)
+
 
 ---
 
