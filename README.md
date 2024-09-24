@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Connect with Me:
-- You can find me on my website: [lawrencemillard.lol](http://lawrencemillard.lol)
+- You can find me on my website: [lawrencemillard.lol](http://www.lawrencemillard.lol)
 - Contact me at: [me@dvv.one](mailto:me@dvv.one)
 - Check out my old profile: [GitHub.com/larssyy](https://github.com/larssyy)
 
